@@ -1,0 +1,5 @@
+Nume: Gabor Vlad
+Grupa: 223
+Fisierul app.config contine numele de campuri specifice fiecarei relatii 1-n. Operatiile crud sunt definite in codul
+sursa. Dupa conectarea la baza de date si selectarea id-ului parintelui, in al doilea tabel se vor afisa entitatile
+din tabelul copil si se vor genera label-uri si textbox-uri specifice.
